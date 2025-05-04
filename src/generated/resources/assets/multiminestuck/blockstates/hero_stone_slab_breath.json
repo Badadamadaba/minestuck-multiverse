@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "multiminestuck:block/hero_stone_slab_breath"
+    },
+    "type=double": {
+      "model": "multiminestuck:block/hero_stone_breath"
+    },
+    "type=top": {
+      "model": "multiminestuck:block/hero_stone_slab_breath_top"
+    }
+  }
+}

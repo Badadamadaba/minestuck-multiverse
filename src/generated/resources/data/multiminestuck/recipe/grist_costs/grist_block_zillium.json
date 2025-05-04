@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:zillium": 100
+  },
+  "ingredient": {
+    "item": "multiminestuck:grist_block_zillium"
+  }
+}

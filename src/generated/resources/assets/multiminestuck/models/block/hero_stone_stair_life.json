@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "multiminestuck:block/hero_stone_life",
+    "side": "multiminestuck:block/hero_stone_life",
+    "top": "multiminestuck:block/hero_stone_life"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "multiminestuck:block/hero_stone_slab_rage"
+    },
+    "type=double": {
+      "model": "multiminestuck:block/hero_stone_rage"
+    },
+    "type=top": {
+      "model": "multiminestuck:block/hero_stone_slab_rage_top"
+    }
+  }
+}

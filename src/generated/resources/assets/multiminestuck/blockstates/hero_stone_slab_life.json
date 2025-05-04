@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "multiminestuck:block/hero_stone_slab_life"
+    },
+    "type=double": {
+      "model": "multiminestuck:block/hero_stone_life"
+    },
+    "type=top": {
+      "model": "multiminestuck:block/hero_stone_slab_life_top"
+    }
+  }
+}

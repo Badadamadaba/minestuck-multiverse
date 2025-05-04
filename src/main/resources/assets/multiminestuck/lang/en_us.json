@@ -1,0 +1,32 @@
+{
+  "itemGroup.multiminestuck": "Minestuck Multiverse",
+
+  "item.multiminestuck.iron_medallion": "Iron Medallion",
+  "item.multiminestuck.zillystone_shard": "Zillystone Shard",
+  "item.multiminestuck.moonstone": "Moonstone",
+  "item.multiminestuck.moonstone_chisel": "Moonstone Chisel",
+
+  "block.multiminestuck.sbahj_bedrock": "Artifact Bedrock",
+  "block.multiminestuck.zillystone": "Zillystone",
+  "block.multiminestuck.grist_block_amber": "Block of Amber Grist",
+  "block.multiminestuck.grist_block_amethyst": "Block of Amethyst Grist",
+  "block.multiminestuck.grist_block_artifact": "Block of Artifact Grist",
+  "block.multiminestuck.grist_block_build": "Block of Build Grist",
+  "block.multiminestuck.grist_block_caulk": "Block of Caulk Grist",
+  "block.multiminestuck.grist_block_chalk": "Block of Chalk Grist",
+  "block.multiminestuck.grist_block_cobalt": "Block of Cobalt Grist",
+  "block.multiminestuck.grist_block_diamond": "Block of Diamond Grist",
+  "block.multiminestuck.grist_block_garnet": "Block of Garnet Grist",
+  "block.multiminestuck.grist_block_gold": "Block of Gold Grist",
+  "block.multiminestuck.grist_block_iodine": "Block of Iodine Grist",
+  "block.multiminestuck.grist_block_marble": "Block of Marble Grist",
+  "block.multiminestuck.grist_block_mercury": "Block of Mercury Grist",
+  "block.multiminestuck.grist_block_quartz": "Block of Quartz Grist",
+  "block.multiminestuck.grist_block_ruby": "Block of Ruby Grist",
+  "block.multiminestuck.grist_block_rust": "Block of Rust Grist",
+  "block.multiminestuck.grist_block_shale": "Block of Shale Grist",
+  "block.multiminestuck.grist_block_sulfur": "Block of Sulfur Grist",
+  "block.multiminestuck.grist_block_tar": "Block of Tar Grist",
+  "block.multiminestuck.grist_block_uranium": "Block of Uranium Grist",
+  "block.multiminestuck.grist_block_zillium": "Block of Zillium Grist"
+}

@@ -19,6 +19,11 @@ group = mod_group_id
 
 repositories {
     mavenLocal()
+    maven { url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/' }
+    maven {
+        url "https://commoble.net/maven/"
+    }
+    maven { url 'https://maven.blamejared.com' }
 }
 
 base {
@@ -124,6 +129,10 @@ dependencies {
     // This maps to ./libs/coolmod-${mc_version}-${coolmod_version}.jar
     // The group id is ignored when searching -- in this case, it is "blank"
     // implementation "blank:coolmod-${mc_version}:${coolmod_version}"
+    implementation "software.bernie.geckolib:geckolib-${mc_gecko_version}"
+    implementation "net.commoble.infiniverse:${infiniverse_branch}:${infiniverse_version}"
+    implementation files("libs/Minestuck-${mc_minestuck_version}.jar")
+
 
     // Example mod dependency using a file as dependency
     // implementation files("libs/coolmod-${mc_version}-${coolmod_version}.jar")

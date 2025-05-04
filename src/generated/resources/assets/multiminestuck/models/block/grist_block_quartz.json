@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "multiminestuck:block/grist_block_quartz_top",
+    "side": "multiminestuck:block/grist_block_quartz"
+  }
+}

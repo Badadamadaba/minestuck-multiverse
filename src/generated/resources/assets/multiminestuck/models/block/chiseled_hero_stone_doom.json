@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "multiminestuck:block/chiseled_hero_stone_doom"
+  }
+}

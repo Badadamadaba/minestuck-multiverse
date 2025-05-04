@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amethyst": 100
+  },
+  "ingredient": {
+    "item": "multiminestuck:grist_block_amethyst"
+  }
+}

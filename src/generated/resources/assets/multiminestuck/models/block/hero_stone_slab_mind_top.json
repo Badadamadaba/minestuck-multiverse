@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "multiminestuck:block/hero_stone_mind",
+    "side": "multiminestuck:block/hero_stone_mind",
+    "top": "multiminestuck:block/hero_stone_mind"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "multiminestuck:block/hero_stone_light",
+    "side": "multiminestuck:block/hero_stone_light",
+    "top": "multiminestuck:block/hero_stone_light"
+  }
+}
